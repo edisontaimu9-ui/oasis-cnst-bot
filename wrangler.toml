@@ -1,0 +1,10 @@
+name = "oasis-cnst-bot"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+workers_dev = true
+
+# Environment variables (secrets set via Cloudflare dashboard)
+# WHATSAPP_TOKEN   - your Meta access token
+# VERIFY_TOKEN     - your webhook verify token (Oasis2026)
+# PHONE_NUMBER_ID  - your WhatsApp phone number ID
+# MFDC_API         - MalawiNutrient API base URL

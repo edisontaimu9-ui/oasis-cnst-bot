@@ -1,0 +1,15 @@
+{
+  "name": "oasis-cnst-bot",
+  "version": "1.0.0",
+  "description": "Oasis CNST Bot - WhatsApp Nutrition Assistant powered by MalawiNutrient API",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "author": "Edison Taimu",
+  "license": "MIT"
+}
